@@ -24,8 +24,13 @@ Update, and test.
 ## Test Checkout
 Assuming you've given yourself NET 30 Terms, you should be given the NET 30 checkout option. If you log out, it should be gone.
 
-![Payment option with NET 30](with-net-30.png)
-Logged in user w/ NET 30 terms.
 
+
+### Logged in user w/ NET 30 terms.
+![Payment option with NET 30](with-net-30.png)
+
+
+
+
+### User or guest w/o NET 30 terms
 ![Payment option without NET 30](without-net-30.png)
-User or guest w/o NET 30 terms.

@@ -1,6 +1,8 @@
 # Woocommerce NET 30 Terms
 > NET 30 Terms in Woocommerce shouldn't be difficult.
 
+[![Watch the video](https://img.youtube.com/vi/NYTC6MuWvIQ/maxresdefault.jpg)](https://youtu.be/NYTC6MuWvIQ&lc)
+
 ## Download and activate
 Download the plugin, upload to your website and activate.
 

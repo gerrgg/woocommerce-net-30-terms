@@ -66,7 +66,7 @@ function gerrg_enable_net30( $available_gateways ){
     $user = wp_get_current_user();
     $is_net30 = get_user_meta( $user->ID, '_has_net_30_terms', true );
 
-    if( isset( $available_gateways['cheque'] ) && !$is_net30 ){
+    if( isset( $available_gateways['cheque'] ) && ! $is_net30 ){
         unset( $available_gateways['cheque'] );
     }
 

@@ -11,13 +11,13 @@ This plugin uses the default 'cheque' payment option for checking out using NET 
 - Change the title to "NET 30 Terms" or w/e...
 - Change the description/instructions to "Our accounts department will send you an invoice for payment with NET 30 terms." or w/e...
 
-![Setup your Cheque Payment Method](enable-cheque-option.png)
+![Setup your Cheque Payment Method](screenshots/enable-cheque-option.png)
 
 
 ## Activate NET 30 for users
 To enable NET 30 terms for a user, edit that user and scroll down to the NET 30 checkbox (highlighted in red).
 
-![Enable NET 30 Terms](activate-net-30-terms.png)
+![Enable NET 30 Terms](screenshots/activate-net-30-terms.png)
 
 Update, and test.
 
@@ -27,10 +27,10 @@ Assuming you've given yourself NET 30 Terms, you should be given the NET 30 chec
 
 
 ### Logged in user w/ NET 30 terms.
-![Payment option with NET 30](with-net-30.png)
+![Payment option with NET 30](screenshots/with-net-30.png)
 
 
 
 
 ### User or guest w/o NET 30 terms
-![Payment option without NET 30](without-net-30.png)
+![Payment option without NET 30](screenshots/without-net-30.png)

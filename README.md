@@ -7,7 +7,7 @@ Download the plugin, upload to your website and activate.
 ## Enable cheque option
 This plugin uses the default 'cheque' payment option for checking out using NET 30 terms. 
 
-![Setup your Cheque Payment Method](enable-cheque-option.jpg)
+![Setup your Cheque Payment Method](enable-cheque-option.png)
 
 - Enable the cheque option
 - Change the title to "NET 30 Terms" or w/e...

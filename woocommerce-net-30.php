@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Plugin Name: WooCommerce Net 30 Terms
- * Plugin URI: 
- * Description: allows an admin to allow a user NET 30 Terms.
- * Version: 0.1
- * Author: Gerrg Bastianelli   
+ * Plugin Name: NET-30 Terms for Woocommerce
+ * Plugin URI: https://github.com/gerrgg/woocommerce-net-30-terms
+ * Description: Allows the admin to give users a NET-30 checkout option.
+ * Version: 1.0
+ * Author: Greg Bastianelli   
  * Author URI: http://GERRG.com/
  * Text Domain: woocommerce-extension
  * Domain Path: /languages

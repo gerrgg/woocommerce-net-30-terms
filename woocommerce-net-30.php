@@ -4,7 +4,7 @@
  * Plugin Name: NET-30 Terms for Woocommerce
  * Plugin URI: https://github.com/gerrgg/woocommerce-net-30-terms
  * Description: Allows the admin to give users a NET-30 checkout option.
- * Version: 1.0
+ * Version: 1.1
  * Author: Greg Bastianelli   
  * Author URI: http://gerrg.com/
  * Text Domain: woocommerce-extension
